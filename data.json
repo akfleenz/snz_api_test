@@ -1,13 +1,13 @@
 {
     "@context": "https://www.data.govt.nz/catalog.jsonld",
-    "@id": "stats.data.govt.nz/data.json",
+    "@id": "https://stats.data.govt.nz/data.json",
     "@type": "dcat:Catalog",
     "conformsTo": "https://www.data.govt.nz/toolkit/schema",
     "dataset": [
         {
-		      "identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
-            "issued": "2019-09-24T20:11:34Z",
-            "modified": "2019-09-24T20:11:35Z",
+		    "identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
+            "issued": "2019-09-24",
+            "modified": "2019-09-24",
             "distribution": [
                 {
                     "title": "2018 Census Place Summaries Content",
@@ -17,7 +17,7 @@
                 }
             ],
             "title": "2018 Census Place Summaries Content",
-            "description": "All Topics for 2018 Census Place Summaries Content ",
+            "description": "All Topics for 2018 Census Place Summaries Content",
             "license": "https://creativecommons.org/licenses/by/4.0/",
             "keyword": [
                 "travel",
