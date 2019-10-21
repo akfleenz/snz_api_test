@@ -1,0 +1,37 @@
+{
+      "@context": "https://www.data.govt.nz/catalog.jsonld",
+      "@id": "https://www.stats.govt.nz/data.json",
+      "@type": "dcat:Catalog",
+      "conformsTo": "https://www.data.govt.nz/toolkit/schema",
+      "dataset":[
+    {
+        "title": "2018 Census Place Summaries Content",
+        "description": "Topics for the 2018 Census Place Summaries",
+        "identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "census",
+            "2018 census",
+            "place summary"
+        ],
+        "issued": "2019-09-24",
+        "publisher": {
+            "name": "Stats NZ"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
+        },
+        "landingPage": "http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place/",
+        "theme": "Census",
+        "temporal": "2006/2018",
+        "distribution": [
+            {
+                "downloadURL": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
+                "title": "2018 Census Place Summaries",
+                "format": "API"
+            }
+        ]
+    }
+]}
