@@ -1,11 +1,11 @@
 {
     "@context": "https://www.data.govt.nz/catalog.jsonld",
-    "@id": "https://stats.data.govt.nz/data.json",
+    "@id": "https://stats.govt.nz/data.json",
     "@type": "dcat:Catalog",
     "conformsTo": "https://www.data.govt.nz/toolkit/schema",
     "dataset": [
         {
-		    "identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
+	"identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
             "issued": "2019-09-24",
             "modified": "2019-09-24",
             "distribution": [
@@ -35,8 +35,7 @@
             "landingPage": "https://www.stats.govt.nz",
             "accrualPeriodicity": "irregular",
             "theme": "Census",
-            "temporal": "2006-",
-            "spatial": "{}"
-        }
+            "temporal": "2006",
+            }
     ]
 }
