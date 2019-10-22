@@ -32,7 +32,7 @@
             {
                 "downloadURL": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
                 "title": "2018 Census Place Summaries",
-                "description": "All topics for 2018 Census Place Summaries"
+                "description": "All topics for 2018 Census Place Summaries",
                 "format": "API"
             }
         ]
