@@ -13,8 +13,8 @@
             "travel",
             "2018 census"
         ],
-        "issued": "2019-09-24T23:29:00",
-        "modified": "2019-09-24T23:44:00",
+        "issued": "2019-09-24T23:29:00Z",
+        "modified": "2019-09-24T23:44:00Z",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
