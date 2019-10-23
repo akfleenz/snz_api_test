@@ -6,12 +6,12 @@
     "dataset": [
         {
 		      "identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
-            "issued": "2019-09-24T20:11:34Z",
-            "modified": "2019-09-24T20:11:35Z",
+            "issued": "2019-09-24 T20:11:34Z",
+            "modified": "2019-09-24 T20:11:35Z",
             "distribution": [
                 {
                     "title": "2018 Census Place Summaries Content",
-                    "description": "All Topics for 2018 Census Place Summaries Content ",
+                    "description": "All Topics for 2018 Census Place Summaries Content",
                     "accessURL": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
                     "format": "api"
                 }
