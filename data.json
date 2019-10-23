@@ -13,7 +13,7 @@
                 "format": "API"
             }
         ]
-         "title": "2018 Census Place Summaries Content",
+         "title":"2018 Census Place Summaries Content",
         "description": "All Topics for 2018 Census Place Summaries Content",
         "identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
         "license": "https://creativecommons.org/licenses/by/4.0",
