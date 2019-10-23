@@ -12,7 +12,7 @@
                 {
                     "title": "2018 Census Place Summaries Content",
                     "description": "All Topics for 2018 Census Place Summaries Content",
-                    "accessURL": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
+                    "downloadURL": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
                     "format": "api"
                 }
             ],
